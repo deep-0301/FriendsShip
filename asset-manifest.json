@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FriendsShip/static/css/main.361b68b0.chunk.css",
+    "main.js": "/FriendsShip/static/js/main.69006c1e.chunk.js",
+    "main.js.map": "/FriendsShip/static/js/main.69006c1e.chunk.js.map",
+    "runtime-main.js": "/FriendsShip/static/js/runtime-main.f9e979e9.js",
+    "runtime-main.js.map": "/FriendsShip/static/js/runtime-main.f9e979e9.js.map",
+    "static/js/2.bbaa3c7f.chunk.js": "/FriendsShip/static/js/2.bbaa3c7f.chunk.js",
+    "static/js/2.bbaa3c7f.chunk.js.map": "/FriendsShip/static/js/2.bbaa3c7f.chunk.js.map",
+    "index.html": "/FriendsShip/index.html",
+    "static/css/main.361b68b0.chunk.css.map": "/FriendsShip/static/css/main.361b68b0.chunk.css.map",
+    "static/js/2.bbaa3c7f.chunk.js.LICENSE.txt": "/FriendsShip/static/js/2.bbaa3c7f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/FriendsShip/static/media/bg.7ae85b1d.jpg",
+    "static/media/loding.8ac01bf2.gif": "/FriendsShip/static/media/loding.8ac01bf2.gif",
+    "static/media/logo.d3f91056.png": "/FriendsShip/static/media/logo.d3f91056.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9e979e9.js",
+    "static/js/2.bbaa3c7f.chunk.js",
+    "static/css/main.361b68b0.chunk.css",
+    "static/js/main.69006c1e.chunk.js"
+  ]
+}
